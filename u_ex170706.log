@@ -1,0 +1,50 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-06-05 00:00:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2022-06-05 00:00:27 10.115.120.14 GET /Home/Default.aspx - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 302 0 0 5015
+2022-06-05 00:00:28 10.115.120.14 GET /Home/MobileCore/SignIn/SignIn.aspx ReturnUrl=%2fHome%2fDefault.aspx 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 1390
+2022-06-05 00:00:28 10.115.120.14 GET /Home/Images/portalstylesheetII.css - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:00:28 10.115.120.14 GET /Home/MobileCore/css/jquery-ui-1.8.22.custom.css - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 234
+2022-06-05 00:00:29 10.115.120.14 GET /Home/WebResource.axd d=lrzmAY6_nnlcAfHC6GNXUFvVCbOaWNa-kEqa3Ye6a55jHjU5OCAcVFiyU64jL_RaYSnx0oOgNt6I7wW27wYRL9yn3E81&t=635586541120000000 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 281
+2022-06-05 00:00:29 10.115.120.14 GET /Home/MobileCore/MenuScripts/jquery.tooltip.min.js - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 437
+2022-06-05 00:00:29 10.115.120.14 GET /Home/WebResource.axd d=wutNUg2ZP1SIn2CWbtYgJG3gl9-H3d-Re_GrCCMmVfcbmyC8S70gRwuMtNLczkMEe990ydgVtQNtOigHVH5NFXB6ttM1&t=635586541120000000 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:00:29 10.115.120.14 GET /Home/WebResource.axd d=tUuVTmelIJbuzyTnwy5PLFMxBcKzSpedM4n24xcwZvTv2K2egshhqrfR06ZrTTv-JJ1ZfDhmjS-yy8_vEtLBn6ZbLhU1&t=635586541120000000 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 203
+2022-06-05 00:00:29 10.115.120.14 GET /Home/MobileCore/Scripts/jquery-1.10.2.js - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 453
+2022-06-05 00:00:31 10.115.120.14 GET /Home/images/online_top_left.gif - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:00:31 10.115.120.14 GET /Home/MobileCore/Scripts/jquery-ui.min.js - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 1265
+2022-06-05 00:00:31 10.115.120.14 GET /Home/images/poweredbylogo.png - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 404 0 2 203
+2022-06-05 00:00:31 10.115.120.14 GET /Home/images/signin.gif - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:00:31 10.115.120.14 GET /favicon.ico - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 404 0 2 203
+2022-06-05 00:00:31 10.115.120.14 GET /favicon.ico - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 404 0 2 218
+2022-06-05 00:00:50 10.115.120.14 GET /InfightCore/rounded_bg.gif - 443 - 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 404 0 2 203
+2022-06-05 00:00:55 10.115.120.14 POST /InfightCore/Line_Diagnostics.aspx Ref=01633376923 443 Gene.Bambao@talktalkplc.com 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 4109
+2022-06-05 00:00:57 10.115.120.14 POST /InfightCore/Line_Diagnostics.aspx Ref=01633376923 443 Gene.Bambao@talktalkplc.com 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 875
+2022-06-05 00:00:58 10.115.120.14 POST /InfightCore/Line_Diagnostics.aspx Ref=01633376923 443 Gene.Bambao@talktalkplc.com 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 531
+2022-06-05 00:01:01 10.115.120.14 POST /InfightCore/Line_Diagnostics.aspx Ref=01633376923 443 Gene.Bambao@talktalkplc.com 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 1281
+2022-06-05 00:01:02 10.115.120.14 POST /InfightCore/Line_Diagnostics.aspx Ref=01633376923 443 Gene.Bambao@talktalkplc.com 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 265
+2022-06-05 00:01:03 10.115.120.14 GET /InfightCore/Line_Diagnostics.aspx Ref=01633376923 443 Gene.Bambao@talktalkplc.com 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 812
+2022-06-05 00:01:04 10.115.120.14 GET /InfightCore/rounded_bg.gif - 443 - 10.182.5.72 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko 404 0 2 203
+2022-06-05 00:01:07 10.115.120.14 POST /Home/MobileCore/SignIn/SignIn.aspx ReturnUrl=%2fHome%2fDefault.aspx 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 302 0 0 1156
+2022-06-05 00:01:08 10.115.120.14 GET /Home/Default.aspx - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 531
+2022-06-05 00:01:08 10.115.120.14 GET /Home/images/poweredbylogo.png - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 404 0 2 218
+2022-06-05 00:01:08 10.115.120.14 GET /Home/images/arrow_white.gif - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 406
+2022-06-05 00:01:11 10.115.120.14 GET /Home/images/arrow_black.gif - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 406
+2022-06-05 00:01:11 10.115.120.14 GET /InfightCore/Default.aspx - 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 328
+2022-06-05 00:01:11 10.115.120.14 GET /InfightCore/Images/portalstylesheetII.css - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:01:11 10.115.120.14 GET /InfightCore/MobileCore/MenuScripts/jquery-1.7.2.min.js - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 250
+2022-06-05 00:01:12 10.115.120.14 GET /Templates/tmpMobileStyle.css - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 404 0 2 218
+2022-06-05 00:01:13 10.115.120.14 GET /InfightCore/images/online_top_right.jpg - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:01:13 10.115.120.14 GET /InfightCore/images/online_top_left.gif - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:01:13 10.115.120.14 GET /InfightCore/images/shadow.png - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 234
+2022-06-05 00:01:13 10.115.120.14 GET /InfightCore/images/arrow_white.gif - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 421
+2022-06-05 00:01:14 10.115.120.14 GET /InfightCore/images/arrow_black.gif - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 421
+2022-06-05 00:01:14 10.115.120.14 GET /InfightCore/index.aspx - 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 343
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/templates/tmpMobileStyle.css - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 234
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/Content/themes/base/jquery-ui.css - 443 - 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 250
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/ScriptResource.axd d=x2H6TZvlFKukcEd3aZtRjX8QlpR_oNpK7BUoLst7uG6yfNVOQAjc0UeGqHWRqWPJZXmog73l8BzFXY9VVtThgj8UzGS4T78wdIu_t2dfV52glY4vUeCU2m_k3Uj6l75eXQWnUV7oOmni16Y2P1U4uKAIHAU1&t=7b689585 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/ScriptResource.axd d=nZ4ASSDCf171h2OZJrz2rvohg-48uFvSlG9C80mKfIp4syLYt7fKJpQOGOwMUkQTyeCihG4TfvMlb_wHCQ37ka0jlTxY0altGB8xFLJJNUPqqNgdu3dPEE4ELAZfHnKL91PwZnXV33jIjPzxHUTq2XPxcSsTckA6KSCI1OAgwDdgh9-M0&t=7b689585 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 203
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/ScriptResource.axd d=EdCooI_uTJYOxu5VkZTbJlVjbs1tYLBNnVfnj_3cKFZZ1zbdLoE8v1PeTMB7pLR9UFG6IWGAEzfdHT_3lT4rvlVNxTpssW_3w0nFMYDd8KTKKSuQpByo6itXgqVweagnyML_2W3hVl2QzrxoXuv_z3AbqLc1&t=ffffffffb8896679 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 203
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/ScriptResource.axd d=tLsmN7WCK8468IYQEnNfe8nDIPDfdb66xdTwSrTlqnaRoLrG2r3lvhRQd04abgJwu5zaoTE8-PmzHxcgOUZkrYOKb679iIVZPC4EoQpYA9RWuWOaZamhyxzlDNbq_dOBZarQD8Fjx5nxUESmGly663QtGq01&t=ffffffffb8896679 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 218
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/ScriptResource.axd d=3dj0F6XljhoNwgf3OzQvr-cKAFxQ4TSqg4Zg9G_EzfyX4pq-VtlCNOPSHWaBhWxsfrbnB6OAOu3JgiZWIhxjab-K9tKilASG6wtDJ2l0YMMddacPltr6qK7l3RmdNl7Kw8j4xOpfYZ9RZm3ZDNDgcDlM_vp_3o0MZ27ScPqqC2fgWSYd0&t=ffffffffb8896679 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 203
+2022-06-05 00:01:15 10.115.120.14 GET /InfightCore/ScriptResource.axd d=VZ3FXyLlcU_PewO8hdLNxMGNb5Pg9VMuFesAczDR3XMQ_Gan9se-LXW5TlMMFk9AWyu3cfMcceFxOLcs_uStddgS3U6Vvs9jfXZi5r6sWuuQwCWkGW7-lZe-1vUpS0vjDJgtxdYPHpRzdFD9BA3BVhKvgV41&t=ffffffffb8896679 443 gemma.cabarles@talktalkplc.com 10.240.29.50 Mozilla/5.0+(Windows+NT+6.1;+rv:46.0)+Gecko/20100101+Firefox/46.0 200 0 0 203
